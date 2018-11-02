@@ -30,6 +30,7 @@
   "keywords": [
     "react-native",
     "qrcode",
+    "barcode",
     "svg"
   ],
   "author": "awesomejerry",
@@ -44,6 +45,7 @@
     "react-native-svg": "^6.5.2"
   },
   "dependencies": {
+    "jsbarcode": "^3.11.0",
     "prop-types": "^15.5.10",
     "qrcode": "^1.2.0"
   },
